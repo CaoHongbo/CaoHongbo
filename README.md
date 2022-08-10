@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 <!-- Intro -->
 
-<a href="https://mahiiverse1.github.io/personal-website-v2/" target="_blank"><img src="mahii-header.png" /></a> 
-<h1 align="center">Hi!! I'm Mahii.</h1>
+<a href="https://mahiiverse1.github.io/personal-website-v2/" target="_blank">
+<!-- <img src="mahii-header.png" /> -->
+</a> 
+<h1 align="center">Hi!! I'm Ethan.</h1>
 <h3 align="center">About Me</h3>  
  <p>
- 👩‍🎓  I'm a third-year CSE undergrad at Terna Engineering College.
+    👩‍🎓  I'm a third-year CSE undergrad at Terna Engineering College.
 <br>🐱 I'm 20 y/o, go by she/her pronouns.
-<br>💫 I’m a front-end web developer, currently learning Data Science, Python and ML/AI.
+<br>💫 I’m a full stack web developer.
 <br>⭐ Besides all that I love reading books, sometimes writing them(lol), cats, BTS & all things aesthetic.
 <br>👩‍💻 Constantly learning. I'm super interested in Open Source!
  <br> <p align="center"><i>✨(Click on the header to know more!)✨</i></p>
@@ -41,7 +43,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg" style="height: 3rem; background-color:white"/>
 </a>
 
-<a href="mailto:mahiivariar26@gmail.com" target="blank">
+<a href="mailto:papa_100@163.com" target="blank">
 <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
 </a>
 
@@ -67,12 +69,12 @@ Here are some ideas to get you started:
 
 
 <!-- Visitor count -->
-<div align="center">
+<!-- <div align="center">
 <h3 align="center">Visitor Count </h3> 
 
 ![Visitor Count](https://profile-counter.glitch.me/mahiiverse1/count.svg)
 
- </div>
+ </div> -->
  
 <!-- Music Box -->
 <!-- <h3 align="center">Music Station 🎶</h3> 
@@ -80,9 +82,9 @@ Here are some ideas to get you started:
 
 <!-- Catto gifs -->
 
-<h2 align="center">Cheers if you've read till here. Here's a cute catto 🐱 for you</h2>
+<!-- <h2 align="center">Cheers if you've read till here. Here's a cute catto 🐱 for you</h2>
 
 <div align="center">
     <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
       
-</div>
+</div> -->
