@@ -32,13 +32,13 @@ Here are some ideas to get you started:
  </p>
 
  <h3 align="center">Feel Free to Contact Me</h3>  
-<!--  <p> -->
-👩‍🎓 E-mail: `papa_100@163.com`
-💫 Wechat: `xiaopazi666`
-⭐ discord: `Ethan Cao#7745`
-
+ <p>
+    👩‍🎓 E-mail: <code>papa_100@163.com</code>
+<br>💫 Wechat: <code>xiaopazi666</code>
+<br>⭐ discord: <code>Ethan Cao#7745</code>
+<br>
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
-<!--  </p> -->
+ </p>
 
 <!-- Socials --> 
 
