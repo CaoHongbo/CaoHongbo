@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://mahiiverse1.github.io/personal-website-v2/" target="_blank">
 <!-- <img src="mahii-header.png" /> -->
 </a> 
-<h1 align="center">Hi!! I'm <span style="font-size:2.5rem">Ethan.</span></h1>
+<h1 align="center">Hi!! I'm Ethan.</h1>
 <h3 align="center">About Me</h3>  
  <p>
     👩‍🎓 I'm a freelancer(full-time or part-time).
@@ -32,13 +32,13 @@ Here are some ideas to get you started:
  </p>
 
  <h3 align="center">Feel Free to Contact Me</h3>  
- <p>
-    👩‍🎓 E-mail: `papa_100@163.com`
-<br>💫 Wechat: `xiaopazi666`
-<br>⭐ discord: `Ethan Cao#7745`
-<br>
+<!--  <p> -->
+👩‍🎓 E-mail: `papa_100@163.com`
+💫 Wechat: `xiaopazi666`
+⭐ discord: `Ethan Cao#7745`
+
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
- </p>
+<!--  </p> -->
 
 <!-- Socials --> 
 
