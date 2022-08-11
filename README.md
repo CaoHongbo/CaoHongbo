@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://mahiiverse1.github.io/personal-website-v2/" target="_blank">
 <!-- <img src="mahii-header.png" /> -->
 </a> 
-<h1 align="center">Hi!! I'm **Ethan**.</h1>
+<h1 align="center">Hi!! I'm <span style="font-weight:bold">Ethan.</span></h1>
 <h3 align="center">About Me</h3>  
  <p>
     👩‍🎓 I'm a freelancer(full-time or part-time).
