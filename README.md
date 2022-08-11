@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 <!-- Socials --> 
 
-<h3 align="center">Let's Connect! </h3>  
+<!-- <h3 align="center">Let's Connect! </h3>  
 <div align="center">
 <a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/Gmail_Logo_256px.png" style="height: 3rem"/>
 </a>
 
-</div>
+</div> -->
 
 <!-- Tech Stack --> 
 
