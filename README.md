@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
 <!-- Intro -->
 
 <a href="https://mahiiverse1.github.io/personal-website-v2/" target="_blank">
@@ -40,9 +38,9 @@ Here are some ideas to get you started:
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
  </p>
 
-<!-- Socials --> 
+<!-- Socials -->
 
-<!-- <h3 align="center">Let's Connect! </h3>  
+<!-- <h3 align="center">Let's Connect! </h3>
 <div align="center">
 <a href="https://www.linkedin.com/in/mahii-variar-9865711b3/" target="blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="height: 3rem"/></a>
 
@@ -56,7 +54,7 @@ Here are some ideas to get you started:
 
 </div> -->
 
-<!-- Tech Stack --> 
+<!-- Tech Stack -->
 
 <h3 align="Center">Languages and Tools</h3>  
 <p align="center">
@@ -66,23 +64,31 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; color:white"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" style="height: 4rem" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" style="height: 4rem" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" style="height: 4rem" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg" style="height: 4rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 4rem" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height: 4rem"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" style="height: 4rem"/>      
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="height: 4rem"/>
+          
+          
 </p>
-
 
 <!-- Visitor count -->
 <!-- <div align="center">
-<h3 align="center">Visitor Count </h3> 
+<h3 align="center">Visitor Count </h3>
 ![Visitor Count](https://profile-counter.glitch.me/mahiiverse1/count.svg)
  </div> -->
 
 <!-- Music Box -->
-<!-- <h3 align="center">Music Station 🎶</h3> 
+<!-- <h3 align="center">Music Station 🎶</h3>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xkv3qjph6be24yswkkxgyafkom&cover_image=true&theme=compact)](https://spotify-github-profile.vercel.app/api/view?uid=31xkv3qjph6be24yswkkxgyafkom&redirect=true) -->
 
 <!-- Catto gifs -->
@@ -90,5 +96,5 @@ Here are some ideas to get you started:
 <!-- <h2 align="center">Cheers if you've read till here. Here's a cute catto 🐱 for you</h2>
 <div align="center">
     <img src="https://github.com/mahiiverse1/mahiiverse1/blob/main/bongo-cat.gif" width="500" height="300"/>
-      
+
 </div> -->
