@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 <!-- <img src="mahii-header.png" /> -->
 </a> 
 <h1 align="center">Hi!! I'm Ethan.</h1>
+<br>
 <h3 align="center">About Me</h3>  
  <p>
     👩‍🎓 I'm a freelancer(full-time or part-time).
@@ -28,7 +29,7 @@ Here are some ideas to get you started:
 <br>
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
  </p>
-
+<br>
  <h3 align="center">Feel Free to Contact Me</h3>  
  <p>
     👩‍🎓 E-mail: <code>papa_100@163.com</code>
@@ -37,6 +38,7 @@ Here are some ideas to get you started:
 <br>
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
  </p>
+ <br>
 
 <!-- Socials -->
 
