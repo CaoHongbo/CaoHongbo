@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <!-- <img src="mahii-header.png" /> -->
 </a> 
 <h1 align="center">Hi!! I'm Ethan.</h1>
-<br>
-<h3 align="center">About Me</h3>  
+<h2 align="center">About Me</h2>  
  <p>
     👩‍🎓 I'm a freelancer(full-time or part-time).
 <br>💫 I’m a full stack web developer.
@@ -29,8 +28,8 @@ Here are some ideas to get you started:
 <br>
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
  </p>
-<br>
- <h3 align="center">Feel Free to Contact Me</h3>  
+
+ <h2 align="center">Feel Free to Contact Me</h2>  
  <p>
     👩‍🎓 E-mail: <code>papa_100@163.com</code>
 <br>💫 Wechat: <code>xiaopazi666</code>
@@ -38,7 +37,6 @@ Here are some ideas to get you started:
 <br>
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
  </p>
- <br>
 
 <!-- Socials -->
 
@@ -58,7 +56,7 @@ Here are some ideas to get you started:
 
 <!-- Tech Stack -->
 
-<h3 align="Center">Languages and Tools</h3>  
+<h2 align="Center">Languages and Tools</h2>  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
