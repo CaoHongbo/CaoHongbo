@@ -19,22 +19,23 @@ Here are some ideas to get you started:
 <!-- <img src="mahii-header.png" /> -->
 </a> 
 <h1 align="center">Hi!! I'm Ethan.</h1>
-<h2 align="center">About Me</h2>  
+<h3 align="center">About Me</h3>  
  <p>
     👩‍🎓 I'm a freelancer(full-time or part-time).
 <br>💫 I’m a full stack web developer.
 <br>⭐ Besides all that I love reading books, music, sports, photography.
 <br>👩‍💻 Constantly learning. I'm super interested in Open Source!
-<br>
+<br>👩‍💻 For more information about me, plz have a look at my portfolio: <a href="caohongbo.github.io/portfolio" target="blank">caohongbo.github.io/portfolio</a><br>
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
  </p>
 
- <h2 align="center">Feel Free to Contact Me</h2>  
+ <h3 align="center">Feel Free to Contact Me</h3>  
  <p>
-    👩‍🎓 E-mail: <code>papa_100@163.com</code>
-<br>💫 Wechat: <code>xiaopazi666</code>
-<br>⭐ discord: <code>Ethan Cao#7745</code>
+    👩‍🎓 E-mail: <a href="mailto:papa_100@163.com" target="blank">papa_100@163.com</a><br>
+    💫 Wechat: <code>xiaopazi666</code><br>
+    ⭐ discord: <code>Ethan Cao#7745</code>
 <br>
+
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
  </p>
 
@@ -56,7 +57,7 @@ Here are some ideas to get you started:
 
 <!-- Tech Stack -->
 
-<h2 align="Center">Languages and Tools</h2>  
+<h3 align="Center">Languages and Tools</h3>  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
