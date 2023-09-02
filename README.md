@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi!! I'm Ethan.</h1>
 <h3 align="center">About Me</h3>  
  <p>
-    👩‍🎓 I'm a freelancer(full-time or part-time).
-<br>💫 I’m a full stack web developer.
+    👩‍🎓 freelancer(full-time or part-time).
+<br>💫 full stack web developer.
+<br>🌱 Chinese and currently learning English.
 <br>⭐ Besides all that I love reading books, music, sports, photography.
 <br>👩‍💻 Constantly learning. I'm super interested in Open Source!
 <br>👩‍💻 For more information about me, plz have a look at my portfolio: <a href="https://caohongbo.github.io/portfolio" target="blank">caohongbo.github.io/portfolio</a><br>
@@ -57,22 +58,28 @@ Here are some ideas to get you started:
 
 <!-- Tech Stack -->
 
-<h3 align="Center">Languages and Tools</h3>  
+<h3 align="Center">Languages</h3>  
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 4rem" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height: 4rem"/>
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem"/>   
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" style="height: 4rem"/>      
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" style="height:4rem"/>
+
+</p>
+
+<h3 align="Center">Databases</h3>  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" style="height: 4rem"/>
+</p>
+
+<h3 align="Center">Frameworks and Tools</h3>  
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height: 4rem"/>  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" style="height: 4rem"/>
@@ -81,9 +88,17 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height:4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="height:4rem"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" style="height:4rem"/>
-
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/express/express-original-wordmark.svg" style="height:4rem"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/eslint/eslint-original-wordmark.svg" style="height:4rem"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/webstorm/webstorm-original-wordmark.svg" style="height:4rem"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg" style="height:4rem"/>
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" style="height: 4rem"/> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="height: 4rem"/> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" /> -->
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/> -->
 </p>
+
+
 
 <!-- Visitor count -->
 <!-- <div align="center">
