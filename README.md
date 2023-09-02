@@ -81,6 +81,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height:4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="height:4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" style="height:4rem"/>
+<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" style="height:4rem"/>
 
 </p>
 
