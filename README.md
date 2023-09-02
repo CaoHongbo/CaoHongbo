@@ -35,8 +35,6 @@ Here are some ideas to get you started:
     👩‍🎓 E-mail: <a href="mailto:papa_100@163.com" target="blank">papa_100@163.com</a><br>
     💫 Wechat: <code>xiaopazi666</code><br>
     ⭐ discord: <code>Ethan Cao#7745</code>
-<br>
-
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
  </p>
 
@@ -66,8 +64,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 4rem" />
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" style="height: 4rem"/>      
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" style="height:4rem"/>
-
 </p>
+
+<br>
 
 <h3 align="Center">Databases</h3>  
 <p align="center">
@@ -75,6 +74,8 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" style="height: 4rem"/>
 </p>
+
+<br>
 
 <h3 align="Center">Frameworks and Tools</h3>  
 <p align="center">
