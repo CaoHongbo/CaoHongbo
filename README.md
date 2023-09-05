@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <br>🌱 Chinese and currently learning English.
 <br>⭐ Besides all that I love reading books, music, sports, photography.
 <br>👩‍💻 Constantly learning. I'm super interested in Open Source!
-<br>👩‍💻 For more information about me, plz have a look at my portfolio: <a href="https://caohongbo.github.io/portfolio" target="blank">caohongbo.github.io/portfolio</a><br>
+<!-- <br>👩‍💻 For more information about me, plz have a look at my portfolio: <a href="https://caohongbo.github.io/portfolio" target="blank">caohongbo.github.io/portfolio</a><br> -->
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
  </p>
 
