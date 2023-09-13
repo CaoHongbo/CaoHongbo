@@ -18,26 +18,20 @@ Here are some ideas to get you started:
 <a href="https://mahiiverse1.github.io/personal-website-v2/" target="_blank">
 <!-- <img src="mahii-header.png" /> -->
 </a> 
-<h1 align="center">Hi!! I'm Ethan.</h1>
-<h3 align="center">About Me</h3>  
+<h1 align="center">Hi👋 I'm Ethan!!</h1>
+<h3>About Me</h3>  
  <p>
-    👩‍🎓 freelancer(full-time or part-time).
-<br>💫 full stack web developer.
-<br>🌱 Chinese and currently learning English.
+    👩‍🎓 Freelancer (full-time or part-time).
+<br>💫 Full-stack web developer with <strong>6+ years experience</strong>.
+<br>🌱 Location: Shanghai China. TimeZone: UTC+8.
+<br>🔭 Native Chinese and currently learning English.
+<br>👩‍💻 Constantly learning. Have a great enthusiasm for programming, serious and responsible!
 <br>⭐ Besides all that I love reading books, music, sports, photography.
-<br>👩‍💻 Constantly learning. I'm super interested in Open Source!
 <!-- <br>👩‍💻 For more information about me, plz have a look at my portfolio: <a href="https://caohongbo.github.io/portfolio" target="blank">caohongbo.github.io/portfolio</a><br> -->
 <!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
  </p>
 
- <h3 align="center">Feel Free to Contact Me</h3>  
- <p>
-    👩‍🎓 E-mail: <a href="mailto:papa_100@163.com" target="blank">papa_100@163.com</a><br>
-    💫 Wechat: <code>xiaopazi666</code><br>
-    ⭐ discord: <code>Ethan Cao#7745</code>
-<!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
- </p>
-
+---
 <!-- Socials -->
 
 <!-- <h3 align="center">Let's Connect! </h3>
@@ -56,8 +50,8 @@ Here are some ideas to get you started:
 
 <!-- Tech Stack -->
 
-<h3 align="Center">Languages</h3>  
-<p align="center">
+<h3>Program Languages</h3>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
@@ -66,19 +60,15 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/rust/rust-plain.svg" style="height:4rem"/>
 </p>
 
-<br>
-
-<h3 align="Center">Databases</h3>  
-<p align="center">
+<h3>Databases</h3>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="height: 4rem"/>     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" style="height: 4rem"/>
 </p>
 
-<br>
-
-<h3 align="Center">Frameworks and Tools</h3>  
-<p align="center">
+<h3>Frameworks and Tools</h3>
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="height: 4rem"/>  
@@ -99,7 +89,15 @@ Here are some ideas to get you started:
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"  style="height: 4rem"/> -->
 </p>
 
+---
 
+<h3>Feel Free to Contact Me</h3>
+ <p>
+    👩‍🎓 E-mail: <a href="mailto:papa_100@163.com" target="blank">papa_100@163.com</a><br>
+    💫 Wechat: <code>xiaopazi666</code><br>
+    ⭐ Discord: <code>Ethan Cao#7745</code>
+<!--  <p align="center"><i>✨(Click on the header to know more!)✨</i></p> -->
+ </p>
 
 <!-- Visitor count -->
 <!-- <div align="center">
